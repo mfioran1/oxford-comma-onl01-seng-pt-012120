@@ -10,6 +10,12 @@ def oxford_comma(array)
 
 end
 
+# if one element
+  # how to change an array to a string in Ruby?
+# if two elements
+  # how to insert a word in a string?
+# if 3+ elements
+
 
 it 'returns a string without any additional fomatting when given a 1-element array' do
     expect(oxford_comma(["kiwi"])).to eq("kiwi")
