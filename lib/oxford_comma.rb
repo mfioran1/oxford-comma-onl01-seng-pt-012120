@@ -1,9 +1,8 @@
 def oxford_comma(array)
   if array.length == 1
     return "#{array(0)}"
-   
-
-end
+   end
+  end
 
 # if one element
   # how to change an array to a string in Ruby?
