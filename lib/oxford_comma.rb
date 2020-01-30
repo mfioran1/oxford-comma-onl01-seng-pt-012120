@@ -1,7 +1,6 @@
 def oxford_comma(array)
   if array.length == 1
-    return array.first
-   
+  return "#{array[0]}"
   end
 
 # if one element
